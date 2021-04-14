@@ -9,4 +9,4 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
 StakeHouse the one-click installer has been renamed to [Wagyu](https://github.com/stake-house/wagyu) and is one of the core focuses of StakeHouse's development.  
 
 
-The Wizard still lives [here](https://github.com/remyroy/eth2-validator-wizard), and is another core focus of StakeHouse.
+The Wizard now lives [here](https://github.com/stake-house/eth2-validator-wizard), and is another core focus of StakeHouse.
